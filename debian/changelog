@@ -1,6 +1,6 @@
-oz (0.12.0-0) unstable; urgency=low
+oz (0.12.0-1) unstable; urgency=low
 
-  * Package Oz 0.12.0-0
+  * Package Oz 0.12.0-1
 
  -- Mathieu Gagné <mgagne@iweb.com>  Tue, 22 Oct 2013 16:31:04 -0400
 
